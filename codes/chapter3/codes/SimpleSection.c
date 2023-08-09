@@ -1,7 +1,8 @@
-/*
- * simple_section.c
+/**
+ * SimpleSection.c
  * 
- * gcc -c simple_section.c
+ * Linux:
+ *  gcc -c SimpleSection.c 
  */
 
 int printf(const char* format, ...);
