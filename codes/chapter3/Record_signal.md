@@ -115,7 +115,10 @@ $ ./ManualNameMangling
 ```
 
 - From the view of compiler, `_ZN6myname3varE` is the same as `myname::var`
--  
+
+
+
+
 
 
 
